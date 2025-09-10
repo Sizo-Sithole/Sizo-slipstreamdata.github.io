@@ -1,27 +1,63 @@
-🔹 Mini Bio / Positioning Statement (max 10 pts)
+# Hi there 👋 I'm Sizo Allay Sithole  
 
-“I am a Master’s in Industrial Engineering (Data Science stream) student at Stellenbosch University, passionate about applying data-driven methods to solve challenges in retail and supply chain resilience. My goal is to use advanced analytics and machine learning to create measurable business and social impact, especially in fast-moving consumer industries.”
+🎓 Master’s in Industrial Engineering (Data Science Stream) @ Stellenbosch University  
+📍 Passionate about **data-driven solutions in retail and supply chain resilience**  
+📊 Focused on leveraging **advanced analytics & machine learning** for measurable **business and social impact**  
 
-🔹 Seed Project Ideas (max 15 pts)
+---
 
-Retail Demand Forecasting with External Factors
-Build predictive models that incorporate promotions, holidays, and inflation data to improve demand planning for retailers. Compare ETS, ARIMA, and ML (XGBoost/LSTM) for accuracy.
-Why relevant: Retail in South Africa is volatile, and better forecasting reduces stockouts and waste.
+## 🚀 About Me  
 
-Supply Chain Risk & Resilience Modelling
-Develop a risk-scoring system for retailers’ supply chains using SCOR v13 and ISO 31000 principles. Apply clustering and simulations to classify suppliers and test responses under disruptions like strikes or power cuts.
-Why relevant: Helps managers identify and mitigate high-risk supply chain nodes.
+I am a Master’s student in Industrial Engineering specializing in **Data Science**, passionate about applying **data-driven methods** to solve challenges in **retail and supply chain resilience**.  
 
-🔹 Skills to Grow (max 10 pts)
+My goal is to use **analytics, forecasting, and AI** to address real-world problems in **fast-moving consumer industries**, helping businesses become more efficient, adaptive, and resilient.  
 
-Technical skill: Time-series forecasting & optimization
-Why: Essential for retail demand prediction, risk modelling, and operations decision-making.
+---
 
-Soft skill: Stakeholder communication
-Why: Translating technical outputs into actionable insights for managers is critical in data science roles.
+## 💡 Project Ideas  
 
-🔹 Goals (30-Day + 6-Month) (max 10 pts)
+### 🛒 Retail Demand Forecasting  
 
-30-Day Goal: Build and publish my GitHub portfolio with a starter project (e.g., exploratory analysis of retail sales data).
+**Problem:**  
+Retail demand is volatile, influenced by promotions, seasonality, holidays, fuel prices, and even weather. Accurate forecasting is critical but challenging.  
 
-6-Month Goal: Complete at least two end-to-end projects (forecasting + supply chain risk model), documented with code, dashboards, and business insights, to showcase readiness for a data science role.
+**Approach:**  
+- Use transactional datasets (e.g., [Kaggle’s retail sales data](https://www.kaggle.com/))  
+- Engineer features with **holiday calendars, weather data, inflation rates**  
+- Compare **ETS, ARIMA** (classical methods) vs **LSTM networks** (ML approach)  
+- Evaluate performance on accuracy & business impact  
+
+**Impact:**  
+✅ Optimize inventory planning  
+✅ Reduce stockouts & overstocks  
+✅ Improve customer satisfaction & profitability  
+
+**Stretch Goal:**  
+🧩 Build a **simulation module** to test *what-if* scenarios (promotions, price hikes, disruptions).  
+
+---
+
+## 🛠️ Skills to Grow  
+
+### 📌 Technical  
+**Cloud & Database Computing**  
+Why? Essential for scaling in **data engineering and enterprise environments**.  
+
+### 📌 Soft  
+**Stakeholder Communication**  
+Why? Translating technical outputs into **actionable insights** is critical for decision-making.  
+
+---
+
+## 🎯 Goals  
+
+- **30-Day Goal:** Build & publish my GitHub portfolio with a starter project (*Retail Customer Prediction*).  
+- **6-Month Goal:** Complete **Shaper Training** on a high note & be fully work-ready for my 6-month journey with **Slipstream Data**.  
+
+---
+
+
+
+---
+
+⭐️ *“Data is not just numbers — it’s the story of people, businesses, and opportunities waiting to be unlocked.”*
