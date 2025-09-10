@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sizo Allay Sithole  
 
-🎓 Master’s in Industrial Engineering (Data Science Stream) @ Stellenbosch University  
+🎓 Bsc in Business Analytics  
 📍 Passionate about **data-driven solutions in retail and supply chain resilience**  
 📊 Focused on leveraging **advanced analytics & machine learning** for measurable **business and social impact**  
 
